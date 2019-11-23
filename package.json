@@ -1,0 +1,8 @@
+{
+  "name": "thumbnail-photos",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/scopewu/photos.git",
+  "author": "scopewu <scopewu@gmail.com>",
+  "license": "MIT"
+}
